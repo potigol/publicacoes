@@ -9,4 +9,6 @@ Leonardo R. Lucena and Márcia Lucena. 2016. __Potigol, a Programming Language f
 
 ## Monografias
 
+Anjos, A.O. and Lucena, L.R., 2012, August. __Definição da sintaxe abstrata de potigol em XML__. In VII CONNEPI-Congresso Norte Nordeste de Pesquisa e Inovação.
+
 
